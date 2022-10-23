@@ -16,4 +16,5 @@ export class Translate{
 
     @Column()
     translated_text: string
+    
 }
